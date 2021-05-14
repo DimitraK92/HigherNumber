@@ -1,0 +1,7 @@
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\26.02.2021\HigherNumb\HigherNumb\obj\Debug\HigherNumb.csprojAssemblyReference.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\26.02.2021\HigherNumb\HigherNumb\obj\Debug\HigherNumb.csproj.CoreCompileInputs.cache
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\26.02.2021\HigherNumb\HigherNumb\bin\Debug\HigherNumb.exe.config
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\26.02.2021\HigherNumb\HigherNumb\bin\Debug\HigherNumb.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\26.02.2021\HigherNumb\HigherNumb\bin\Debug\HigherNumb.pdb
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\26.02.2021\HigherNumb\HigherNumb\obj\Debug\HigherNumb.exe
+C:\Users\daykay\Desktop\PeopleCert Bootcamp\26.02.2021\HigherNumb\HigherNumb\obj\Debug\HigherNumb.pdb
